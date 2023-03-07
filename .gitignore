@@ -1,0 +1,12 @@
+Servers
+.metadata
+
+practica-webservices/.settings
+practica-webservices/target
+practica-webservices/.classpath
+practica-webservices/.project
+
+practica-webservices-consumer/.settings
+practica-webservices-consumer/target
+practica-webservices-consumer/.classpath
+practica-webservices-consumer/.project
